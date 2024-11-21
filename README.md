@@ -51,13 +51,12 @@ Maps are represented as text files containing a matrix with:
 - S for spaceships,
 - G for parking spots (goals).
 
-Example: 
-```bash
+- Example: 
+   ```bash
 
     _ O _ S G
     S _ O O G
     _ O _ _ _
-
 
 ## 🖼️ Screenshot
 

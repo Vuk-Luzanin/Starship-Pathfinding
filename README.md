@@ -17,14 +17,17 @@ Move all spaceships to their parking spots using the chosen search algorithm.
 ## 🛠️ Setup and Running the Project
 
 1. Clone or download the repository. 📥
+   
     ```bash
     git clone PROJECT_URL
 
-2. Install Dependencies. 
+3. Install Dependencies.
+
     ```bash
     pip install pygame
 
-3. Running the Project.
+4. Running the Project.
+   
     ```bash
     python .\main.py algorithm map timeout
 
@@ -43,15 +46,17 @@ After running the simulation, a graphical window will appear showing the map. Th
 ## 🗺️ Map Format:
 Maps are represented as text files containing a matrix with:
 
-_ for empty fields (passable),
-O for obstacles (blocks movement),
-S for spaceships,
-G for parking spots (goals).
+- _ for empty fields (passable),
+- O for obstacles (blocks movement),
+- S for spaceships,
+- G for parking spots (goals).
 
 Example: 
-_ O _ S G
-S _ O O G
-_ O _ _ _
+```bash
+
+    _ O _ S G
+    S _ O O G
+    _ O _ _ _
 
 
 ## 🖼️ Screenshot

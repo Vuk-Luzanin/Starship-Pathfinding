@@ -32,7 +32,7 @@ Move all spaceships to their parking spots using the chosen search algorithm.
     python .\main.py algorithm map timeout
 
 Parameters:
-  algorithm: The search algorithm you want to use (default is ExampleAlgorithm).
+  algorithm: The search algorithm you want to use (name of Algorithm) (default is ExampleAlgorithm).
   map: The name of the map to be used (default is example_map.txt).
   timeout: The maximum runtime for the simulation (default is 0, meaning no timeout).
 

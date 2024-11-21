@@ -54,9 +54,15 @@ Maps are represented as text files containing a matrix with:
 - Example: 
    ```bash
 
-    _ O _ S G
-    S _ O O G
-    _ O _ _ _
+    _ _ _ _ _ _ _ G
+    _ O _ _ O _ _ O
+    S _ _ _ _ _ _ _
+    _ _ O _ _ _ _ _
+    _ O _ O _ O _ _
+    _ _ _ _ _ _ _ _
+    S _ _ _ _ _ _ _
+    _ G _ _ _ _ _ _
+   
 
 ## 🖼️ Screenshot
 

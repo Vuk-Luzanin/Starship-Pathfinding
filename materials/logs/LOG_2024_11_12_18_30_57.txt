@@ -1,0 +1,3 @@
+INFO: Waiting for solution ...
+INFO: Algorithm took 0.000 seconds.
+ERROR: Exception('Path is empty!')

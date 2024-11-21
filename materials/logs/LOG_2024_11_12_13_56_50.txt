@@ -1,0 +1,6 @@
+INFO: Waiting for solution ...
+INFO: Algorithm took 0.001 seconds.
+INFO: Step 001 - from (0, 0) to (1, 0) ; cost 1
+INFO: Step 002 - from (5, 2) to (0, 2) ; cost 5
+INFO: Path length is 2 steps.
+INFO: Path cost is 6 units.

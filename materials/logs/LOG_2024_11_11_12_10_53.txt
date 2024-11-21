@@ -1,0 +1,15 @@
+INFO: Waiting for solution ...
+INFO: Algorithm took 0.001 seconds.
+INFO: Step 001 - from (5, 2) to (5, 1) ; cost 1
+INFO: Step 002 - from (5, 1) to (5, 4) ; cost 3
+INFO: Step 003 - from (5, 4) to (0, 4) ; cost 5
+INFO: Step 004 - from (0, 4) to (0, 1) ; cost 3
+INFO: Step 005 - from (0, 1) to (0, 5) ; cost 4
+INFO: Step 006 - from (0, 5) to (4, 5) ; cost 4
+INFO: Step 007 - from (4, 5) to (4, 0) ; cost 5
+INFO: Step 008 - from (4, 0) to (3, 0) ; cost 1
+INFO: Step 009 - from (3, 0) to (3, 2) ; cost 2
+INFO: Step 010 - from (3, 2) to (0, 2) ; cost 3
+INFO: Step 011 - from (0, 0) to (1, 0) ; cost 1
+INFO: Path length is 11 steps.
+INFO: Path cost is 32 units.

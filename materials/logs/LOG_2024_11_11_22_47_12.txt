@@ -1,0 +1,10 @@
+INFO: Waiting for solution ...
+INFO: Algorithm took 0.166 seconds.
+INFO: Step 001 - from (6, 0) to (7, 0) ; cost 1
+INFO: Step 002 - from (2, 0) to (2, 7) ; cost 7
+INFO: Step 003 - from (2, 7) to (7, 7) ; cost 5
+INFO: Step 004 - from (7, 7) to (7, 1) ; cost 6
+INFO: Step 005 - from (7, 0) to (0, 0) ; cost 7
+INFO: Step 006 - from (0, 0) to (0, 7) ; cost 7
+INFO: Path length is 6 steps.
+INFO: Path cost is 33 units.

@@ -1,0 +1,32 @@
+INFO: Waiting for solution ...
+INFO: Algorithm took 0.021 seconds.
+INFO: Step 001 - from (6, 0) to (6, 7) ; cost 7
+INFO: Step 002 - from (6, 7) to (2, 7) ; cost 4
+INFO: Step 003 - from (2, 0) to (2, 6) ; cost 6
+INFO: Step 004 - from (2, 6) to (7, 6) ; cost 5
+INFO: Step 005 - from (2, 7) to (2, 0) ; cost 7
+INFO: Step 006 - from (2, 0) to (7, 0) ; cost 5
+INFO: Step 007 - from (7, 0) to (7, 5) ; cost 5
+INFO: Step 008 - from (7, 5) to (5, 5) ; cost 2
+INFO: Step 009 - from (7, 6) to (7, 0) ; cost 6
+INFO: Step 010 - from (5, 5) to (7, 5) ; cost 2
+INFO: Step 011 - from (7, 0) to (7, 4) ; cost 4
+INFO: Step 012 - from (7, 4) to (2, 4) ; cost 5
+INFO: Step 013 - from (7, 5) to (7, 0) ; cost 5
+INFO: Step 014 - from (2, 4) to (7, 4) ; cost 5
+INFO: Step 015 - from (7, 0) to (7, 3) ; cost 3
+INFO: Step 016 - from (7, 3) to (5, 3) ; cost 2
+INFO: Step 017 - from (7, 4) to (7, 0) ; cost 4
+INFO: Step 018 - from (5, 3) to (7, 3) ; cost 2
+INFO: Step 019 - from (7, 0) to (7, 2) ; cost 2
+INFO: Step 020 - from (7, 2) to (4, 2) ; cost 3
+INFO: Step 021 - from (7, 3) to (7, 0) ; cost 3
+INFO: Step 022 - from (4, 2) to (7, 2) ; cost 3
+INFO: Step 023 - from (7, 0) to (7, 1) ; cost 1
+INFO: Step 024 - from (7, 1) to (5, 1) ; cost 2
+INFO: Step 025 - from (7, 2) to (7, 0) ; cost 2
+INFO: Step 026 - from (7, 0) to (0, 0) ; cost 7
+INFO: Step 027 - from (0, 0) to (0, 7) ; cost 7
+INFO: Step 028 - from (5, 1) to (7, 1) ; cost 2
+INFO: Path length is 28 steps.
+INFO: Path cost is 111 units.

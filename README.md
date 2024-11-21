@@ -60,5 +60,5 @@ Maps are represented as text files containing a matrix with:
 
 ## 🖼️ Screenshot
 
-![App Screenshot](images/screenshotForGITHUB.png)
+![App Screenshot](images/screenshotForGithub.png)
 

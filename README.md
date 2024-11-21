@@ -29,7 +29,7 @@ Move all spaceships to their parking spots using the chosen search algorithm.
 4. Running the Project.
    
     ```bash
-    python .\main.py algorithm map timeout
+    python ./materials/main.py algorithm map timeout
 
 Parameters:
   algorithm: The search algorithm you want to use (name of Algorithm) (default is ExampleAlgorithm).

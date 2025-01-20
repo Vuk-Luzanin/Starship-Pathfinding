@@ -6,7 +6,7 @@
 - **DFS (Depth-First Search)** 
 - **BFS (Breadth-First Search)** 
 - **Branch and Bound** 
-- **A⭐ Search** 
+- **A⭐ (star) Search** 
 
 ## 📋 Project Description:
 The simulation is based on a grid map of space fields where spaceships move from their starting positions to a goal. Each spaceship uses a different search algorithm, allowing the testing of algorithm efficiency in solving the problem.
